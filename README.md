@@ -41,7 +41,8 @@ http://localhost:8080/update-customerByID/{id}
         "name": "",
         "email": "",
         "payment_method": ""
- }```
+ }
+ ```
 ***löschen (anhand von id)*** DELETE
 ```bash
 http://localhost:8080/update-customerByID/{id}
